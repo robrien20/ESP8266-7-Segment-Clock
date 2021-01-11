@@ -7,5 +7,7 @@
 4. Micro USB cable (~$2.00)
 5. USB power adapter (~$10.00)
 
-*Prices from aliexpress. Any of these items can also be purchased from amazon for a higher price and faster shipping*
 **Total: $15.40. Total if you have an extra micro USB and power adapter: $3.40**
+
+*Prices from aliexpress. Any of these items can also be purchased from amazon for a higher price and faster shipping*
+
