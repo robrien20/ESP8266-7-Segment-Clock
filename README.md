@@ -1,6 +1,6 @@
 # ESP8266-7-Segment-Clock
 
-<h2>About:</h2>
+This is a cheap digital wifi clock powered by an ESP8266 and a TM1637 4 digit 7 segment display. Time is grabbed on the minute via [NTPClient](https://github.com/arduino-libraries/NTPClient). Display brightness is updated based on the hour of the day (customizable in the source code) so as to be visible during the day and dim at night. Theres also a fun little startup animation which you can play around with. 
 
 <h2>Materials:</h2>
 
@@ -21,9 +21,10 @@
 <h2>Instructions:</h2>
 
 1. If you do not have an arduino IDE installed, download latest [Arduino IDE](https://www.arduino.cc/en/software)
-2. Open the source code, update SSID/Password, install any dependencies
-3. Send to esp8266
+2. Open the source code, install any dependencies, update SSID/Password, update brightness vector (optional), update UTC offset (default is Eastern Time Zone)
+3. Upload to esp8266
 
 <h2>To do:</h2>
 
 1. Implement [WiFiManager](https://github.com/tzapu/WiFiManager)
+2. Add pics of the clock I put together.
