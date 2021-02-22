@@ -9,8 +9,8 @@
 #define DIO 4
 
 // Wifi Credentials
-const char *ssid     = "Grove Humor";
-const char *password = "61grove2a";
+const char *ssid     = "Your_SSID";
+const char *password = "Your_Password";
 
 
 const long utcOffsetInSeconds = -5*60*60;
