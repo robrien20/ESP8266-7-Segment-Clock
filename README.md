@@ -20,3 +20,7 @@
 1. If you do not have an arduino IDE installed, download latest [Arduino IDE](https://www.arduino.cc/en/software)
 2. Open the source code, update SSID/Password
 3. Send to your esp8266
+
+<h2>To do:</h2>
+
+1. Implement [WiFiManager](https://github.com/tzapu/WiFiManager)
