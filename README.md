@@ -11,5 +11,5 @@
 
 *Prices from aliexpress. Any of these items can also be purchased from amazon for a higher price and faster shipping*
 
-![image](https://raw.githubusercontent.com/robrien20/ESP8266-7-Segment-Clock/main/ESP8266-7-Segment-Clock%20Pinout.jpg)
+![image](https://github.com/robrien20/ESP8266-7-Segment-Clock/blob/main/ESP8266-7-Segment-Clock%20Pinout.jpg)
 
