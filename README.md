@@ -16,7 +16,7 @@ This is a cheap digital wifi clock powered by an ESP8266 and a TM1637 4 digit 7 
 
 <h2>Schematic:</h2>
 
-![image](https://github.com/robrien20/ESP8266-7-Segment-Clock/blob/main/ESP8266-7-Segment-Clock%20Pinout.jpg)
+![image](https://github.com/robrien20/ESP8266-7-Segment-Clock/blob/main/pics/ESP8266-7-Segment-Clock%20Pinout.jpg)
 
 <h2>Instructions:</h2>
 
