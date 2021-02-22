@@ -11,5 +11,5 @@
 
 *Prices from aliexpress. Any of these items can also be purchased from amazon for a higher price and faster shipping*
 
-[image](ESP8266-7-Segment-Clock Pinout.jpg)
+![image](ESP8266-7-Segment-Clock Pinout.jpg)
 
