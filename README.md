@@ -1,4 +1,7 @@
 # ESP8266-7-Segment-Clock
+
+<h2>About:</h2>
+
 <h2>Materials:</h2>
 
 1. NodeMCU ESP8266 (~$2.00)
@@ -18,8 +21,8 @@
 <h2>Instructions:</h2>
 
 1. If you do not have an arduino IDE installed, download latest [Arduino IDE](https://www.arduino.cc/en/software)
-2. Open the source code, update SSID/Password
-3. Send to your esp8266
+2. Open the source code, update SSID/Password, install any dependencies
+3. Send to esp8266
 
 <h2>To do:</h2>
 
