@@ -1,4 +1,4 @@
-# ESP8266 7 Segment Clock
+# ESP8266 7 Segment Digital Clock
 
 This is a cheap digital wifi clock powered by an ESP8266 and a TM1637 4 digit 7 segment display. Time is grabbed on the minute via [NTPClient](https://github.com/arduino-libraries/NTPClient). Display brightness is updated based on the hour of the day (customizable in the source code) so as to be visible during the day and dim at night. Theres also a fun little startup animation which you can play around with. 
 
